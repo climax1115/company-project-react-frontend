@@ -1,0 +1,15 @@
+.sm-title{
+    @apply leading-[51px] text-[42px] font-bold text-white
+}
+
+.sm-subtitle{
+    @apply leading-[26px] text-[16px] font-medium text-white mt-[5px]
+}
+
+.lg-title{
+    @apply text-white lg:font-bold lg:text-[56px] lg:leading-[56px];
+}
+
+.lg-subtitle{
+    @apply text-white lg:font-medium lg:text-[16px] lg:leading-[26px] mt-[10px];
+}

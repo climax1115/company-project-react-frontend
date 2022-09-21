@@ -1,0 +1,7 @@
+.footer-content1{
+    @apply bg-red py-[34px] items-center mx-auto justify-center text-white font-bold leading-c22 lg:flex ;
+
+}
+.footer-content2{
+    @apply bg-black px-[24px] py-[35px];
+}
