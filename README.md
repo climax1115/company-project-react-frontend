@@ -1,1 +1,1 @@
-# company-project-react-frontend
+# Intellitek roject using React, TypeScript, Tailwind
