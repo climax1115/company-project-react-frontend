@@ -1,1 +1,1 @@
-# Intellitek project using React, TypeScript, Tailwind
+# Intellitek project using React, TypeScript, Tailwindcss
